@@ -5,8 +5,7 @@
 
 - 📚 I’m currently learning **React, javascript**
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
-
+- 👨‍💻 All of my projects are available at (coming soon)
 - ⚡ Fun fact **plen**
 
 <h3 align="left">Languages and Tools:</h3>
