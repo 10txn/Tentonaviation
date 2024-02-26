@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm tenton</h1>
 <h3 align="center">A young learning web developer from the uk</h3>
 
-- 📋 I’m currently working on [Linktree-clone](https://github.com/Tentonaviation/Linktree-clone)
+- 📋 I’m currently working on [begginer-js]([https://github.com/Tentonaviation/Linktree-clone](https://github.com/Tentonaviation/begginer-js))
 
 - 📚 I’m currently learning **React, javascript**
 
