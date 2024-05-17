@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm tenton</h1>
 <h3 align="center">A young learning web developer from the uk</h3>
 
-- 📋 I’m currently working on [myfirstextension](https://github.com/Tentonaviation/myfirstextension-adblocker))
+- 📋 I’m currently working on [myfirstextension](https://github.com/Tentonaviation/myfirstextension-adblocker)
 
 - 📚 I’m currently learning **React, javascript**
 
