@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm tenton</h1>
-<h3 align="center">A young learning web developer from the uk</h3>
+<h1 align="center">Hello 👋, I'm 10txn</h1>
+<h3 align="center">I'm currently working on learning game hacking with c++ and web development.</h3>
 
-- 📋 I’m currently working on [myfirstextension](https://github.com/Tentonaviation/myfirstextension-adblocker)
+- 📋 I’m currently working on [guns.lol recreation](https://github.com/Tentonaviation/myfirstextension-adblocker)
 
-- 📚 I’m currently learning **React, javascript**
+- 📚 I’m currently learning **C++, react**
 
 - 👨‍💻 All of my projects are available at (coming soon)
 
